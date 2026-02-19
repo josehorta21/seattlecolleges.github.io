@@ -420,6 +420,16 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        {
+              "name": "José Antonio Horta Herrera",
+              "photo": "Jose-Horta.webp",
+              "role": "Computer Science Student",
+              "about": "Computer Science student focused on learning software development and continuously improving technical skills.",
+              "email": "hortajose08@gmail.com",
+              "github": "https://github.com/josehorta21",
+              "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
         }
+            
     ]
 }
